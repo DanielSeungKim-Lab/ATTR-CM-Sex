@@ -1,0 +1,7 @@
+population,kind,variant,genotyped,source
+ATTR-ACT,trial,106,441,Maurer 2018 NEJM Table 1 (doi:10.1056/NEJMoa1805689)
+APOLLO-B,trial,71,359,Maurer 2023 NEJM Table 1 (doi:10.1056/NEJMoa2300757)
+ATTRibute-CM,trial,61,632,Gillmore 2024 NEJM Table 1 (doi:10.1056/NEJMoa2305434)
+HELIOS-B,trial,76,654,Fontana 2025 NEJM Table 1 (doi:10.1056/NEJMoa2409134)
+CARDIO-TTRansform,trial,211,1430,Fontana 2026 NEJM Table 1 (doi:10.1056/NEJMoa2608510)
+Referral registry (CARS),benchmark,305,1034,"Stern 2024 J Card Fail Table 3, ATTR column, patients with genotype reported (doi:10.1016/j.cardfail.2023.09.016)"

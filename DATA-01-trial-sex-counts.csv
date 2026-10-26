@@ -1,0 +1,13 @@
+disease,trial,nct,female,male,sex_denom,sex_source
+ATTR-CM,ATTR-ACT,NCT01994889,43.0,398.0,441.0,"registry baseline, Total reporting group"
+ATTR-CM,APOLLO-B,NCT03997383,38.0,321.0,359.0,"registry baseline, Total reporting group"
+ATTR-CM,ATTRibute-CM,NCT03860935,62.0,570.0,632.0,"registry baseline, Total reporting group"
+ATTR-CM,CARDIO-TTRansform,NCT04136171,135.0,1297.0,1432.0,primary report Table 1 (male 636/715 + 661/717)
+ATTR-CM,HELIOS-B,NCT04153149,49.0,605.0,654.0,"registry baseline, Total reporting group"
+HCM,LIBERTY-HCM,NCT02291237,73.0,99.0,172.0,"registry baseline, Total"
+HCM,EXPLORER-HCM,NCT03470545,102.0,149.0,251.0,"registry baseline, Total"
+HCM,VALOR-HCM,NCT04349072,55.0,57.0,112.0,"registry baseline, Total"
+HCM,SEQUOIA-HCM,NCT05186818,115.0,167.0,282.0,"registry baseline, Total"
+HCM,ODYSSEY-HCM,NCT05582395,266.0,314.0,580.0,"registry baseline, Total"
+HCM,MAPLE-HCM,NCT05767346,73.0,102.0,175.0,"registry baseline, Total"
+HCM,ACACIA-HCM,NCT06081894,277.0,240.0,517.0,primary report Table 1: female 140/258 + 137/259

@@ -1,0 +1,8 @@
+disease,benchmark,kind,bench_female,bench_denom,bench_pct,source,short_label
+ATTR-CM,US adults 75 y and over,population,13143618.0,22676920.0,57.96033147358636,"ACS 2019-2023 5-year, table B01001, 50 states and DC",US adults ≥75 y
+ATTR-CM,"Specialty-center registry, ATTR stratum",disease,150.0,1153.0,13.00954032957502,"CARS registry (Stern 2024 J Card Fail 30:669-678, PMID 37907148) Table 3, ATTR column: male sex 1003/1153 (87%), so 150 women of 1,153; sex reported for 1,153 of 1,155 ATTR patients",Referral registry (CARS)
+ATTR-CM,"Diagnosed claims cohort, all ATTR-CM",disease,5207.0,14537.0,35.818944761642705,"Mitchell 2026 JAHA Table 1, overall column (sex known for 14,537 of 14,980)","Diagnosed claims, all"
+HCM,US adults 20 y and over,population,127603947.0,249977599.0,51.04615273947007,"ACS 2019-2023 5-year, table B01001, 50 states and DC",US adults ≥20 y
+HCM,Specialty-center referral registry (SHaRe),disease,1862.0,4431.0,42.02211690363349,"Hafeez 2026 JAMA Cardiol, Table, 5 US SHaRe sites",Referral registry (SHaRe)
+ATTR-CM,"Diagnosed claims cohort, wild-type ATTR-CM",disease_stratum,4593.0,12875.0,35.67378640776699,"Mitchell 2026 JAHA Table 1, wild-type column","Diagnosed claims, wild-type"
+ATTR-CM,"Diagnosed claims cohort, variant ATTR-CM",disease_stratum,562.0,1449.0,38.78536922015183,"Mitchell 2026 JAHA Table 1, variant column","Diagnosed claims, variant"

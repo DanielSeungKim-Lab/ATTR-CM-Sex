@@ -1,0 +1,10 @@
+trial,nct,status,women,n,upper_age,wall_rule,target_women,other_target,efficacy_measure,women_est,women_lo,women_hi,men_est,men_lo,men_hi,efficacy_source,criteria_source
+ATTR-ACT,NCT01994889,completed,43,441,90,Septal >12 mm,no,,,,,,,,,not reported in primary report or supplement; sex not a planned efficacy subgroup,registry; Maurer 2018 NEJM methods; protocol and statistical analysis plan (doi:10.1056/NEJMoa1805689)
+APOLLO-B,NCT03997383,completed,38,359,85,Septal >12 mm,no,,,,,,,,,not reported in primary report or supplement; sex not a planned efficacy subgroup,registry; Maurer 2023 NEJM methods; protocol and statistical analysis plan (doi:10.1056/NEJMoa2300757)
+ATTRibute-CM,NCT03860935,completed,62,632,90,LV wall ≥12 mm,no,,,,,,,,,not reported in primary report or supplement; sex not a planned efficacy subgroup,registry; Gillmore 2024 NEJM methods; protocol and statistical analysis plan (doi:10.1056/NEJMoa2305434)
+HELIOS-B,NCT04153149,completed,49,654,85,Septal >12 mm,no,,"hazard ratio, death from any cause or recurrent CV events",0.59,0.26,1.3,0.71,0.54,0.94,dedicated sex analysis (doi:10.1093/ejhf/xuag208),registry; Jering 2025 Nat Med methods (doi:10.1038/s41591-025-03851-z)
+CARDIO-TTRansform,NCT04136171,completed,135,1432,90,Septal ≥12 mm,no,,"rate ratio, CV death or recurrent CV events",0.65,0.33,1.26,0.94,0.76,1.16,primary report Figure 2 (doi:10.1056/NEJMoa2608510),registry; Fontana 2026 NEJM methods (doi:10.1056/NEJMoa2608510)
+TRITON-CM,NCT07052903,ongoing,,1750,85,Not stated,no,,,,,,,,,not yet available,"ClinicalTrials.gov registry, retrieved 2026-10-23"
+CLEOPATTRA,NCT07207811,ongoing,,1280,,Septal ≥12 mm,no,"variant disease, about 15%",,,,,,,,not yet available,"ClinicalTrials.gov registry, retrieved 2026-10-23"
+MAGNITUDE,NCT06128629,ongoing,,1200,90,Not stated,no,,,,,,,,,not yet available,"ClinicalTrials.gov registry, retrieved 2026-10-23"
+DepleTTR-CM,NCT06183931,ongoing,,1182,90,Septal ≥12 mm,no,,,,,,,,,not yet available,"ClinicalTrials.gov registry, retrieved 2026-10-23"
